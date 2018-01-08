@@ -1,4 +1,5 @@
 
+
 public class Person implements Info{
 
 	//constructor for Person class
@@ -24,3 +25,4 @@ public class Person implements Info{
 	}
 	
 }
+
